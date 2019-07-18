@@ -1,8 +1,9 @@
 ---
-title: 策略梯度
+title: 强化学习-策略梯度
 date: 2018-06-17 10:37:22
 tags: [策略梯度,强化学习,机器学习]
 mathjax: true
+description: 文章主要讲解了确定性策略梯度和随机策略梯度。
 ---
 
 *本文涉及算法的实现请参照我的[Github](https://github.com/cheersyouran/reinforcement-learning)*

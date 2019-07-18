@@ -3,6 +3,7 @@ title: Alphago的原理
 date: 2018-06-19 00:53:24
 tags: [Alphago,强化学习,机器学习]
 mathjax: true
+description: 文章主要讲解了DeepMind人工智能程序AlphaGO的算法原理。
 ---
 
 ## 1. 介绍
